@@ -4,12 +4,12 @@
   <repo quality="stable" status="unofficial">
     <name>rindeal</name>
     <description lang="en">Rindeal's collection of solid ebuilds and whatnot</description>
-    <homepage>https://ebuilds.janchren.eu/repos/rindeal</homepage>
+    <homepage>https://github.com/rindeal/rindeal-ebuild-repo</homepage>
     <owner type="person">
       <name>Jan Chren (rindeal)</name>
       <email>dev.rindeal+rindeal-ebuild-repo@gmail.com</email>
     </owner>
-    <source type="git">https://ebuilds.janchren.eu/repos/rindeal/.git</source>
+    <source type="git">https://github.com/rindeal/rindeal-ebuild-repo.git</source>
     <feed>https://ebuilds.janchren.eu/repos/rindeal/feed</feed>
   </repo>
 </repositories>
